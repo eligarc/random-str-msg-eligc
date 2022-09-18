@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-eligc",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eligarc/random-str-msg-eligc.git"
+  },
+  "keywords": [],
+  "author": "Elioenai Garcia <eli-garc@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eligarc/random-str-msg-eligc/issues"
+  },
+  "homepage": "https://github.com/eligarc/random-str-msg-eligc#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
